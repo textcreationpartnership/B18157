@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable the Knights, citizens and burgesses, in Parliament assembled. May it please your honours; the last sessions of Parliament I presented the Honourable the Commons in Parliament then sitting, with proposals for setting up a national land-bank in favour of the freeholders and trading part of the kingdom, ...</title>
+            <author>Briscoe, John, fl. 1695.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18157</idno><idno type="EEBO-CITATION">99886035</idno>
+  <idno type="VID">186403</idno>
+  <idno type="EEBO-PROQUEST">2240895243</idno>
+  
+            <idno type="STC">Wing B4756</idno>
+            <idno type="STC">Interim Tract Supplement Guide 712.m.1[35]</idno>
+            <idno type="PROQUEST">ocm99886035</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886035e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186403)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C4:3[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable the Knights, citizens and burgesses, in Parliament assembled. May it please your honours; the last sessions of Parliament I presented the Honourable the Commons in Parliament then sitting, with proposals for setting up a national land-bank in favour of the freeholders and trading part of the kingdom, ...</title>
+                  <author>Briscoe, John, fl. 1695.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed: Decemb. 2. 1695. John Briscoe.</note>
+                  <note>Page 2 has title "A short account of the national land-bank."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Banks and banking --  England --  Early works to 1800.</term>
+               <term type="topical_term">Local finance --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Government lending --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land value taxation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:186403:1"/>
+            <head>To the Honourable the Knights, Citizens and Burgesses, <hi>In Parliament Assembled.</hi>
+            </head>
+            <opener>
+               <salute>May it please your Honours;</salute>
+            </opener>
+            <p>THE last Sessions of Parliament I presented the Honou<g ref="char:EOLhyphen"/>rable the Commons in Parliament then sitting, with Proposals for setting up a <hi>National Land-Bank</hi> in favour of the Freeholders and Trading Part of the Kingdom, which the Scarcity and Badness of our Money, together with the ne<g ref="char:EOLhyphen"/>cessitous Condition of very many Freeholders of <hi>England,</hi> who were almost crushed with the Weight of high Interest and Taxes, did render necessary to be done. And in order thereunto a Bill was brought into the Honourable House of Commons, and a considerable Progress was made therein by the Committee, but for want of Time the same was not reported.</p>
+            <p>I thereupon fully determined not to proceed any farther in what I designed until I had Authority from your Honours for my so doing: but some Gentlemen so soon as the Parliament was prorogued, formed the Model of a Bank out of my Book, which I presented that Honourable House, intituled, <hi>A Discourse on the late Funds,</hi> which they christned by the Name of <hi>the Land-Bank,</hi> but excluded the Freeholders from the Benefit I intended them; and proposed no less Profit than 30 or 40 <hi>per cent. per annum,</hi> among a few Money-Subscribers. I thereupon laid open my Books of Subscriptions for Land and Money for <hi>a Fund for a National Land-Bank;</hi> to which several Noblemen, Gentlemen, Merchants and others, have subscribed a considerable Value. And upon the several Prorogations I constantly attended that Honou<g ref="char:EOLhyphen"/>rable House, to lay before them what from time to time was done therein.</p>
+            <p>As in Duty bound, I come now to lay the same before this Honourable House, as it is calculated not only for the Advantage of Trade, but also for the Benefit of the Freeholders, who have all along been contributory to the Taxes for carrying on the War, and Support of the Government, and who have not met with the promised Assistance from the Bank of <hi>England.</hi>
+            </p>
+            <p>I humbly request your Honours Countenance and Assistance therein, and beg leave to subscribe my self,</p>
+            <closer>
+               <signed>Your Honours most Humble and most Obedient Servant, <hi>JOHN BRISCOE</hi>
+               </signed>
+               <date>
+                  <hi>Decemb.</hi> 2. 1695.</date>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="2" facs="tcp:186403:2"/>
+            <head>A short ACCOƲNT of the <hi>National Land-Bank.</hi>
+            </head>
+            <p>THere are Estates subscribed by several Noblemen, Gentle<g ref="char:EOLhyphen"/>men, and others, to be settled in the said Bank, to the Value of above 200000 <hi>l. per annum,</hi> which Estates are to be set<g ref="char:EOLhyphen"/>tled in order as they were subscribed.</p>
+            <p>Every Person who shall settle his Estate in the said Bank, may have Money upon such his Settlement to the Value of three fourth Parts of such Estate, at 3 <hi>l.</hi> 10 <hi>d. per cent. per annum</hi> Interest, and may repay the same or any part of it whenever he pleases.</p>
+            <p>No Gentleman nor his Estate is to be chargeable, or stand char<g ref="char:EOLhyphen"/>ged for more Money than what he himself shall take up of the Bank, without his Consent.</p>
+            <p>Such Subscribers of Land who will subject their Estates to bear a proportionable Part of all Losses, shall have a propor<g ref="char:EOLhyphen"/>tionable Part of the Profit of the Bank; and the first 200000 <hi>l. per annum</hi> settled upon those Terms is to be the Fund of Land for securing the Bills that shall be issued out by the Bank.</p>
+            <p>To circulate the Bills of the Bank a Million of Money was pro<g ref="char:EOLhyphen"/>posed to be raised by Subscriptions, payable one tenth Part every Quarter, whereof 650000 <hi>l.</hi> is subscribed.</p>
+            <p>The Subscribers of Money are to have 3 <hi>l. per cent. per annum</hi> paid them for their whole Money subscribed, to commence from the 10th of <hi>October</hi> last, and a proportionable Part of the Profits of the Bank with the Land-Subscribers. And in regard no more than 1500 <hi>l.</hi> can be lent upon 2000 <hi>l.</hi> Value in Land, 1500 <hi>l.</hi> in Money is admitted equal in Profit and Loss with 2000 <hi>l.</hi> worth of Land.</p>
+            <p>There are to be two General Meetings of the Subscribers or Persons interested yearly in the Months of <hi>June</hi> and <hi>Decem<g ref="char:EOLhyphen"/>ber.</hi>
+            </p>
+            <p>The Management of the Bank is proposed to be in 37 Di<g ref="char:EOLhyphen"/>rectors, 36 of which are to be annually chosen by the major Part of all Persons interested in the Bank, and are removable at any time for Misdemeanor.</p>
+            <p>The Directors, or any Number of other Persons interested in The Bank to the Value of 50000 <hi>l.</hi> in Land or Money, may call a General Meeting when they please.</p>
+            <p>The Accounts of the Bank are to be made up every half Year, and laid before every such General Meeting for their Perusal.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
